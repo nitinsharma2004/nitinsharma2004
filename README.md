@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitinsharma2004&label=Profile%20views&color=0e75b6&style=flat" alt="nitinsharma2004" /> </p>
 
-- 💬 Ask me about **C , C++ ,HTML ,CSS,PHP,SQL.**
+- 💬 Ask me about **C , C++ ,HTML ,CSS,PHP,SQL.,DSA**
 
 - 📫 How to reach me **ns129210@gmail.com**
 
@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/nitin sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitin sharma" height="30" width="40" /></a>
 <a href="https://fb.com/nitin sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nitin sharma" height="30" width="40" /></a>
 <a href="https://instagram.com/nitin_sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nitin_sharma" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@pradeeppssharma1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@pradeeppssharma1" height="30" width="40" /></a>
+
 <a href="https://leetcode.com/CWN12345/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nitin sharma" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/nitin sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="nitin sharma" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/nitinsharma2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nitinsharma2004" height="30" width="40" /></a>
